@@ -1,0 +1,38 @@
+{
+  "company_name": "Anthropic",
+  "industry": "Artificial Intelligence",
+  "business_model": "AI safety research company developing large language models and AI assistants, with both research and commercial product offerings",
+  "key_products": [
+    "Claude (AI assistant)",
+    "Claude API",
+    "Constitutional AI research",
+    "AI safety research"
+  ],
+  "revenue_estimate": "Projected $850 million annualized revenue by end of 2024",
+  "employees": "500-1000 (as of 2024)",
+  "headquarters": "San Francisco, California, USA",
+  "founded": "2021",
+  "public_or_private": "Private",
+  "sources": [
+    {
+      "url": "anthropic.com",
+      "note": "Company's official website and public announcements about Claude products and mission",
+      "confidence": "high"
+    },
+    {
+      "url": "techcrunch.com",
+      "note": "Multiple TechCrunch articles covering Anthropic's funding rounds and revenue projections",
+      "confidence": "medium"
+    },
+    {
+      "url": "bloomberg.com",
+      "note": "Bloomberg reporting on Anthropic's valuation, funding, and business metrics",
+      "confidence": "high"
+    },
+    {
+      "url": "reuters.com",
+      "note": "Reuters coverage of Anthropic's partnerships with Google, Amazon, and funding rounds",
+      "confidence": "high"
+    }
+  ]
+}

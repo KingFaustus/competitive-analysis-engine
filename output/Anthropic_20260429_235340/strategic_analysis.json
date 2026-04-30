@@ -1,0 +1,97 @@
+{
+  "company_name": "Anthropic",
+  "porters": {
+    "threat_of_new_entrants": {
+      "name": "Threat of New Entrants",
+      "score": 3,
+      "explanation": "While capital requirements and talent scarcity create barriers, well-funded tech giants and startups can enter. Open-source models lower technical barriers, but achieving frontier model performance requires significant resources.",
+      "confidence": "high"
+    },
+    "bargaining_power_of_suppliers": {
+      "name": "Bargaining Power of Suppliers",
+      "score": 4,
+      "explanation": "Critical dependencies on cloud compute providers (AWS, GCP, Azure) and NVIDIA for GPUs create high supplier power. Talent market is extremely competitive with limited top AI researchers commanding premium compensation.",
+      "confidence": "high"
+    },
+    "bargaining_power_of_buyers": {
+      "name": "Bargaining Power of Buyers",
+      "score": 3,
+      "explanation": "Enterprise customers have moderate power due to multiple LLM options available. However, switching costs are rising as companies integrate specific models into workflows. Individual consumers have lower power given limited alternatives.",
+      "confidence": "high"
+    },
+    "threat_of_substitutes": {
+      "name": "Threat of Substitutes",
+      "score": 2,
+      "explanation": "Few true substitutes exist for frontier LLMs. Traditional software, human labor, or smaller models cannot match capabilities. Main substitution threat comes from alternative AI approaches or open-source models for specific use cases.",
+      "confidence": "medium"
+    },
+    "competitive_rivalry": {
+      "name": "Competitive Rivalry",
+      "score": 5,
+      "explanation": "Intense competition among well-funded players (OpenAI, Google, Microsoft, Meta) racing for AGI. Rapid innovation cycles, aggressive talent acquisition, and pressure to demonstrate safety while maintaining performance create extreme rivalry.",
+      "confidence": "high"
+    }
+  },
+  "boundaries": {
+    "vertical_integration": "Anthropic maintains moderate vertical integration - develops proprietary models and training infrastructure internally but relies on external cloud providers for compute. Does not manufacture hardware or own data centers.",
+    "make_vs_buy": "Builds core AI models, safety research, and training methodologies internally. Buys compute infrastructure, relies on partnerships for distribution (AWS, Google Cloud), and leverages existing hardware rather than designing custom chips.",
+    "core_vs_context": "Core activities include model architecture development, Constitutional AI research, and safety alignment work. Context activities include compute infrastructure, customer support tooling, and basic business operations which are largely outsourced or partnered.",
+    "outsourcing_risks": "Heavy dependence on cloud providers creates vulnerability to price increases or capacity constraints. Lack of proprietary distribution channels limits direct customer relationships. Reliance on third-party hardware could constrain scaling.",
+    "expansion_opportunities": "Should consider developing proprietary training infrastructure, building direct enterprise sales channels, creating specialized vertical applications, and potentially designing custom hardware optimized for their architectures to reduce dependencies.",
+    "confidence": "high"
+  },
+  "swot": {
+    "strengths": {
+      "items": [
+        "Pioneer in Constitutional AI and safety-focused approach differentiates from competitors",
+        "Strong investor backing including Google provides capital and strategic partnerships",
+        "Claude's reputation for helpfulness and harmlessness attracts safety-conscious enterprises",
+        "Top-tier research team with expertise from OpenAI and Google Brain",
+        "Clean-slate approach allows architectural innovations without legacy constraints"
+      ],
+      "confidence": "high"
+    },
+    "weaknesses": {
+      "items": [
+        "Smaller scale and resources compared to OpenAI/Google/Microsoft",
+        "Limited product ecosystem compared to competitors' suites",
+        "Dependency on external compute infrastructure increases costs",
+        "Later market entry means less brand recognition and customer base",
+        "Balancing safety with performance may slow innovation speed"
+      ],
+      "confidence": "medium"
+    },
+    "opportunities": {
+      "items": [
+        "Growing enterprise demand for trustworthy, aligned AI systems",
+        "Regulatory trends favoring safety-first approaches could become competitive advantage",
+        "Potential to become the 'enterprise-safe' AI provider of choice",
+        "Expansion into specialized vertical markets requiring high reliability",
+        "Partnership opportunities with companies seeking alternatives to Microsoft/OpenAI"
+      ],
+      "confidence": "medium"
+    },
+    "threats": {
+      "items": [
+        "Aggressive competition from better-resourced tech giants",
+        "Open-source models could commoditize basic capabilities",
+        "Potential talent drain to higher-paying competitors",
+        "Regulatory uncertainty could constrain business models",
+        "Risk of safety focus being perceived as performance limitation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "competitive_advantages": [
+    "Constitutional AI methodology providing differentiated safety approach",
+    "Strong focus on AI alignment attracting safety-conscious customers",
+    "High-caliber research team with unique expertise",
+    "Strategic partnerships with Google and AWS for distribution and compute",
+    "Reputation for responsible AI development"
+  ],
+  "sustainable_advantages": [
+    "First-mover advantage in Constitutional AI and interpretability research",
+    "Cultural commitment to safety creating hard-to-replicate organizational capabilities",
+    "Growing network effects from enterprises standardizing on Claude for safety-critical applications"
+  ]
+}

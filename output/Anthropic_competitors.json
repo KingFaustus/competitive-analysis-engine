@@ -1,0 +1,40 @@
+{
+  "company_name": "Anthropic",
+  "competitors": [
+    {
+      "name": "OpenAI",
+      "why_competitor": "Direct competitor in LLM development and AI assistant products (ChatGPT/GPT-4 vs Claude), both offer API access and consumer-facing AI assistants, compete for same enterprise and developer customers",
+      "threat_level": 5,
+      "market_overlap": 5,
+      "confidence": "high"
+    },
+    {
+      "name": "Google DeepMind",
+      "why_competitor": "Develops competing LLMs (Gemini/Bard) and AI assistants, strong AI safety research focus, competes in both research publications and commercial AI products market",
+      "threat_level": 5,
+      "market_overlap": 4,
+      "confidence": "high"
+    },
+    {
+      "name": "Microsoft",
+      "why_competitor": "Major player in enterprise AI through Azure OpenAI Service and Copilot products, competes for enterprise AI assistant market, significant investment in competing AI technologies",
+      "threat_level": 4,
+      "market_overlap": 3,
+      "confidence": "high"
+    },
+    {
+      "name": "Meta AI",
+      "why_competitor": "Develops open-source LLMs (Llama series) that compete with commercial models, conducts AI safety research, offers alternative approach to AI deployment that could reduce demand for proprietary APIs",
+      "threat_level": 3,
+      "market_overlap": 3,
+      "confidence": "high"
+    },
+    {
+      "name": "Cohere",
+      "why_competitor": "Direct competitor in enterprise LLM API market, similar business model focusing on providing LLMs to businesses, competes for same developer and enterprise customer base",
+      "threat_level": 3,
+      "market_overlap": 4,
+      "confidence": "high"
+    }
+  ]
+}

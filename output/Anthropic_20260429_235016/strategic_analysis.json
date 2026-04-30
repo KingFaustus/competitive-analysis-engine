@@ -1,0 +1,98 @@
+{
+  "company_name": "Anthropic",
+  "porters": {
+    "threat_of_new_entrants": {
+      "name": "Threat of New Entrants",
+      "score": 3,
+      "explanation": "While capital requirements ($10B+ for frontier models) and talent scarcity create barriers, well-funded tech giants (Apple, Amazon) and sovereign initiatives can still enter. Open-source alternatives lower some barriers.",
+      "confidence": "high"
+    },
+    "bargaining_power_of_suppliers": {
+      "name": "Bargaining Power of Suppliers",
+      "score": 4,
+      "explanation": "Critical dependency on scarce GPU compute (NVIDIA dominant), limited cloud providers (AWS, GCP), and extremely scarce AI research talent who command premium compensation and have high mobility.",
+      "confidence": "high"
+    },
+    "bargaining_power_of_buyers": {
+      "name": "Bargaining Power of Buyers",
+      "score": 3,
+      "explanation": "Enterprise customers have increasing alternatives and can multi-source AI providers. However, switching costs are rising as companies integrate specific models. Safety-conscious buyers have fewer options.",
+      "confidence": "high"
+    },
+    "threat_of_substitutes": {
+      "name": "Threat of Substitutes",
+      "score": 2,
+      "explanation": "Few true substitutes for frontier LLMs exist currently. Traditional software, human labor, and specialized AI models serve different use cases. Open-source models lag in capability but are improving.",
+      "confidence": "medium"
+    },
+    "competitive_rivalry": {
+      "name": "Competitive Rivalry",
+      "score": 5,
+      "explanation": "Intense competition among well-funded players (OpenAI, Google, Meta) racing for AGI. Rapid innovation cycles, aggressive talent poaching, and massive capital investment. Winner-take-all dynamics in some segments.",
+      "confidence": "high"
+    }
+  },
+  "boundaries": {
+    "vertical_integration": "Anthropic maintains end-to-end control from research to model training to API delivery, but relies on external cloud infrastructure. Unlike competitors, it doesn't control silicon or consumer distribution channels.",
+    "make_vs_buy": "Builds core AI models and safety research internally, partners for compute infrastructure (AWS, Google Cloud), and relies on third-party platforms for distribution. Notably independent in research agenda unlike Microsoft-backed OpenAI.",
+    "core_vs_context": "Core activities include AI safety research, model architecture innovation, and constitutional AI development. Context activities include infrastructure management, basic customer support, and standard business operations.",
+    "outsourcing_risks": "Heavy dependence on cloud providers for compute creates strategic vulnerability. Lack of consumer-facing products limits direct market feedback. Reliance on external funding without clear monetization path poses sustainability risks.",
+    "expansion_opportunities": "Should consider developing specialized vertical solutions for regulated industries valuing safety, building direct enterprise sales capabilities, potentially developing custom silicon partnerships, and creating developer ecosystem tools.",
+    "confidence": "high"
+  },
+  "swot": {
+    "strengths": {
+      "items": [
+        "Leading expertise in AI safety and constitutional AI",
+        "Strong reputation for responsible AI development",
+        "High-quality Claude model competitive with GPT-4",
+        "Significant funding from patient capital (Google, Amazon)",
+        "Top-tier research team from DeepMind/OpenAI"
+      ],
+      "confidence": "high"
+    },
+    "weaknesses": {
+      "items": [
+        "Limited product portfolio compared to competitors",
+        "Smaller scale and resources than Google/Microsoft",
+        "No consumer distribution channels",
+        "Dependent on external compute infrastructure",
+        "Later market entry than OpenAI"
+      ],
+      "confidence": "medium"
+    },
+    "opportunities": {
+      "items": [
+        "Growing demand for trustworthy, safe AI systems",
+        "Regulatory environment favoring responsible AI",
+        "Enterprise market seeking alternatives to OpenAI",
+        "Potential to lead in specialized high-stakes applications",
+        "Partnerships with safety-conscious organizations"
+      ],
+      "confidence": "medium"
+    },
+    "threats": {
+      "items": [
+        "Aggressive competition from better-resourced rivals",
+        "Open-source models commoditizing basic capabilities",
+        "Potential talent drain to higher-paying competitors",
+        "Regulatory uncertainty around AI development",
+        "Risk of safety focus limiting innovation speed"
+      ],
+      "confidence": "high"
+    }
+  },
+  "competitive_advantages": [
+    "Differentiated focus on AI safety and alignment",
+    "Constitutional AI methodology",
+    "Strong technical reputation attracting top researchers",
+    "Strategic partnerships with major cloud providers",
+    "Trust advantage with safety-conscious enterprises"
+  ],
+  "sustainable_advantages": [
+    "Deep expertise in AI safety research creating knowledge moat",
+    "Reputation as the 'responsible' AI company",
+    "Constitutional AI approach potentially required by future regulation",
+    "Cultural commitment to safety attracting mission-aligned talent"
+  ]
+}

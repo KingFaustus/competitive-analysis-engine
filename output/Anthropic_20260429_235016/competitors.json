@@ -1,0 +1,40 @@
+{
+  "company_name": "Anthropic",
+  "competitors": [
+    {
+      "name": "OpenAI",
+      "why_competitor": "Direct competitor in LLM development and commercialization. Offers ChatGPT and GPT API services competing directly with Claude. Both companies focus on AI safety research while offering commercial API products to similar enterprise and developer customers.",
+      "threat_level": 5,
+      "market_overlap": 5,
+      "confidence": "high"
+    },
+    {
+      "name": "Google DeepMind",
+      "why_competitor": "Major player in AI research and LLM development with Gemini models. Competes for AI safety research talent, enterprise AI contracts, and consumer AI assistant market. Has significantly more resources and integration with Google's ecosystem.",
+      "threat_level": 5,
+      "market_overlap": 4,
+      "confidence": "high"
+    },
+    {
+      "name": "Microsoft/Azure AI",
+      "why_competitor": "Offers competing AI services through Azure OpenAI Service and Copilot products. Targets same enterprise customers for AI integration. While partnered with OpenAI, Microsoft's own AI initiatives compete for market share.",
+      "threat_level": 4,
+      "market_overlap": 4,
+      "confidence": "high"
+    },
+    {
+      "name": "Cohere",
+      "why_competitor": "Direct competitor focusing on enterprise LLM solutions and API services. Targets similar B2B customers with language models for business applications. Smaller scale but very similar business model and target market.",
+      "threat_level": 3,
+      "market_overlap": 4,
+      "confidence": "high"
+    },
+    {
+      "name": "Meta AI (FAIR)",
+      "why_competitor": "Develops competitive LLMs (Llama series) with different approach (open-source). Competes for AI research talent and mindshare. While business model differs, their open models compete with commercial offerings for developer adoption.",
+      "threat_level": 3,
+      "market_overlap": 3,
+      "confidence": "high"
+    }
+  ]
+}
