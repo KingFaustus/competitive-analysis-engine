@@ -45,6 +45,9 @@ Given a company name, the pipeline runs five specialized agents in sequence and 
 | 10 | Executive Summary | Three variants: one sentence, one paragraph, one page |
 
 **Sample CLI output:**
+
+![Competitive Analysis Agent UI](assets/app_screenshot.png)
+
 ---
 
 ## Why This Matters
