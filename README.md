@@ -137,7 +137,7 @@ The following analysis was generated against Anthropic. Full report: [`samples/A
 **Quick start (3 commands):**
 
 ```bash
-git clone https://github.com/alexstephens27/competitive-analysis-agent
+git clone https://github.com/KingFaustus/competitive-analysis-engine
 cd competitive-analysis-agent
 pip install -r requirements.txt
 ```
