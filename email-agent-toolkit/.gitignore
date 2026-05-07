@@ -1,0 +1,10 @@
+credentials.json
+token.pickle
+dashboard_data.json
+contacts_cache.json
+reputation.json
+digest.log
+*.csv
+__pycache__/
+*.pyc
+.DS_Store
